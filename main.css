@@ -1,0 +1,36 @@
+body {
+	background-color: rgb(215, 215, 215);
+}
+
+#info-header {
+	background-color: rgb(115, 165, 115);
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+#info-paragraph {
+	background-color: rgb(115, 215, 115);
+	color: white;
+	font-family: sans-serif;
+	text-align: center;
+
+	float: left;
+	width: 40%;
+}
+
+#form-block {
+	font-family: sans-serif;
+	text-align: center;
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+	float: right;
+	width: 60%;
+}
